@@ -22,6 +22,8 @@ Nodo* create(int value){
 
 int main(){
     
+    Nodo *nodo5 = create(5);
+    Nodo *nodo2 = create(2);
 
     return 0;
 }
